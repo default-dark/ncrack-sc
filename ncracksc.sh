@@ -110,7 +110,7 @@ echo -e """ $red
     echo -e $red"[5]"$green"brute-force atack" 
     echo -e $red"[6]"$green"whois"
     echo -e $red"[7]"$green"vuln-scan"
-    echo -e $red"[8]"$green"subdomain"
+    
     read -p "[type-scan]--->> " sc 
 fi
   case $sc in     
