@@ -48,7 +48,7 @@ echo -e """ $red
 _/    _/    _/_/_/  _/          _/_/_/    _/_/_/  _/    _/ 
 $yellow[!]$red aviso ataques do tipo scan em redes não autorizada e crime
 não sou responsavel use em abiente controlado ok :)  
-"""
+$yellow[!]$red warning scan type attacks on unauthorized network and crime I am not responsible use in a controlled environment ok """
 sleep 2
 echo -e "$green-----------------------------"
 echo -e $red"[1]"$yellow"scripts atack"
